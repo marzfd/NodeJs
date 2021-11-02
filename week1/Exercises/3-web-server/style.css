@@ -1,0 +1,11 @@
+body {
+  background-color: #5a5986;
+  font-family: cursive;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#content {
+  color: #71ee90;
+  font-size: 20px;
+}
