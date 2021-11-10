@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 // Weather Route
 app.post('/weather', (req, res) => {
   const cityName = req.body.cityName;
-  res.send(`The weather in ${cityName} is sunny`);
+  res.send(cityName);
 })
 
 // Start Server
