@@ -1,0 +1,17 @@
+[
+  {
+    "id" : "01",
+    "title" : "A",
+    "author" : "Author A"
+  },
+  {
+    "id" : "02",
+    "title" : "B",
+    "author" : "Author B"
+  },
+  {
+    "id" : "03",
+    "title" : "C",
+    "author" : "Author C"
+  }
+]
