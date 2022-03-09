@@ -6,7 +6,7 @@
 
 <br/>
 
-This repository contains all homework assignments for the NodeJs Module.
+This repository contains all homework assignments for the [NodeJs](https://github.com/HackYourFuture/Node.js) Module.
 
 <br/>
 
