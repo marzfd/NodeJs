@@ -11,7 +11,7 @@ This repository contains all homework assignments for the [NodeJs](https://githu
 <br/>
 
 ## Homework Projects
-* [Weather App](https://ancient-shore-17506.herokuapp.com/) [[Code](https://github.com/marzfd/NodeJs/tree/main/week3/HackYourTemperature%20III)]
+* [Weather App](https://ancient-shore-17506.herokuapp.com/) [[Code](https://github.com/marzfd/Node-Weather-App)]
 * [Ebook Seller App](https://ancient-retreat-35008.herokuapp.com/) [[code](https://github.com/marzfd/Ebook-Seller-App)]
 
 ### Exercises
