@@ -7,3 +7,14 @@
 <br/>
 
 This repository contains all homework assignments for the NodeJs Module.
+
+<br/>
+
+## Homework Projects
+* [Weather App](https://ancient-shore-17506.herokuapp.com/) [[Code](https://github.com/marzfd/NodeJs/tree/main/week3/HackYourTemperature%20III)]
+* [Ebook Seller App](https://ancient-retreat-35008.herokuapp.com/) [[code](https://github.com/marzfd/Ebook-Seller-App)]
+
+### Exercises
+* [Week 1](https://github.com/marzfd/NodeJs/tree/main/week1/Exercises)
+* [Week 2](https://github.com/marzfd/NodeJs/tree/main/week2/Exercises)
+* [Week 3](https://github.com/marzfd/NodeJs/tree/main/week3/Excercise/1-handlebars)
